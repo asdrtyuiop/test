@@ -1,0 +1,5 @@
+{
+    "tools|block": "工具",
+    "tools.areaOfRectangle|block": "1111長方形面積 長 %length|寬 %width",
+    "tools.ledOfRectangle|block": "1111LED顯示長方形面積 長 %length|寬 %width"
+}
